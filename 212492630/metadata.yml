@@ -1,0 +1,18 @@
+---
+:id: 212492630
+:submitters:
+- :name: Arush Singhal
+  :email: cs5221667@iitd.ac.in
+- :name: Siya Gupta
+  :email: mt1221274@maths.iitd.ac.in
+- :name: Arnav Jain
+  :email: cs1221082@iitd.ac.in
+- :name: Jain(31)
+  :email: mt1221914@maths.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-14 14:55:22.377502000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-14 06:55:22.377502000 Z
+:status: processed
+:score: 50.0
